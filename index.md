@@ -27,6 +27,13 @@ PERSONAL STATEMENT PERSONAL STATEMENT PERSONAL STATEMENT PERSONAL STATEMENT
 
 {% include custom/calendar.html %}
 
+---
+dates:
+  - { date: "2024-01-01", title: "First Jan event" }
+  - { date: "2018-04-08", title: "An event from April 2018" }
+  - { date: "2020-08-19", title: "August event with a long name that goes on and on" }
+---
+
 * * *
 
 [Backup](./indexBackup.html)
