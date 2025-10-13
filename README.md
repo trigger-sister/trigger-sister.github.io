@@ -1,2 +1,2 @@
-remote_theme: jekyll-theme-dark-reader
+remote_theme: hacker
 # trigger-sister.github.io
