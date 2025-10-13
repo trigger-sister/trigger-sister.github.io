@@ -16,7 +16,7 @@ PERSONAL STATEMENT PERSONAL STATEMENT PERSONAL STATEMENT PERSONAL STATEMENT
 
 | Date         | Title                                        | Type  | Link  |
 |:-------------|:---------------------------------------------|:------|:------|
-| Oct 13, 2025 | good swedish fish                            | Blog  | [Link](./WIP.html) |
+| Oct 13, 2025 | Hello World!                            | Blog  | [Link](./_posts/2025-10-13-HELLO-WORLD.html) |
 | Oct 12, 2025 | Announcement: Ren-Faire Life                 | Event | [Link](./WIP.html) |
 | Oct 11, 2025 | Self-Portrait                                | Art   | [Link](./WIP.html) |
 | Oct 10, 2025 | Recollections of Riders, Witches, and Ghosts | Blog  | [Link](./WIP.html) |
