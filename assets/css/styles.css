@@ -1,3 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
 /* Calendar */
 .calendar-container {
   display: grid;
