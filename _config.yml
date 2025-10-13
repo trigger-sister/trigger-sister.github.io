@@ -3,9 +3,9 @@ logo: /assets/img/logo.png
 description: A blog on Culture, Gender, Raleigh Nightlife, and more
 show_downloads: true
 google_analytics:
-theme: jekyll-theme-minimal
-#remote_theme: BDHU/minimalist
-#color-scheme: dark
+#theme: jekyll-theme-minimal
+remote_theme: BDHU/minimalist
+color-scheme: dark
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
