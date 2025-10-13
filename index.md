@@ -16,7 +16,7 @@ PERSONAL STATEMENT PERSONAL STATEMENT PERSONAL STATEMENT PERSONAL STATEMENT
 
 | Date         | Title                                        | Type  | Link  |
 |:-------------|:---------------------------------------------|:------|:------|
-| Oct 13, 2025 | Hello World!                            | Blog  | {% post_url 2025-10-13-HELLO-WORLD %} |
+| Oct 13, 2025 | Hello World!                            | Blog  | [Link]({% post_url 2025-10-13-HELLO-WORLD %}) |
 | Oct 12, 2025 | Announcement: Ren-Faire Life                 | Event | [Link](./WIP.html) |
 | Oct 11, 2025 | Self-Portrait                                | Art   | [Link](./WIP.html) |
 | Oct 10, 2025 | Recollections of Riders, Witches, and Ghosts | Blog  | [Link](./WIP.html) |
