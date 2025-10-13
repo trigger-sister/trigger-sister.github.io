@@ -23,5 +23,5 @@ sidebar:
     icon: <i class="fa-fas fa-palette"></i>
     link: https://trigger-sister.github.io/another-page.html
   - name: Contact
-    icon: <i class="fa-brands fa-pen"></i>
+    icon: <i class="fas fa-pen"></i>
     link: https://trigger-sister.github.io/another-page.html
