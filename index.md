@@ -2,6 +2,8 @@
 layout: default
 ---
 
+![Branching](https://trigger-sister.github.io/assets/img/logo.png)
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
