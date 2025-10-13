@@ -3,7 +3,6 @@ layout: post
 title: "HELLO-WORLD"
 author: trigger-sister
 date: 2025-10-13 18:35:40 -0400
-categories: test trigger-sister
 tags:
   - test
   - trigger-sister
