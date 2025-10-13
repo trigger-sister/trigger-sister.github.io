@@ -98,7 +98,7 @@ end
 
 ### Large image
 
-![Branching](https://trigger-sister.github.com/assets/img/URLQRCode.png)
+![Branching](https://trigger-sister.github.io/assets/img/URLQRCode.png)
 
 
 ### Definition lists can be used with HTML syntax.
