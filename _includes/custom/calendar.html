@@ -1,5 +1,6 @@
+{% assign current_year = 'now' | date: '%Y' %}
+
 <div class="calendar-container">
-  {% assign current_year = 'now' | date: '%Y' %}
   {% for month in (1..12) %}
     <!-- Month prep -->
     {% assign month_str = month | prepend: '0' | slice: -2, 2 %}
