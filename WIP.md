@@ -4,6 +4,6 @@ layout: default
 
 This page is a
 
-#Work in Progress
+# Work in Progress
 
-####Please excuse the mess
+#### Please excuse the mess
