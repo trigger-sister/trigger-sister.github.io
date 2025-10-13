@@ -25,6 +25,8 @@ PERSONAL STATEMENT PERSONAL STATEMENT PERSONAL STATEMENT PERSONAL STATEMENT
 
 ## CALENDAR
 
+{% include custom/calendar.html %}
+
 * * *
 
 [Backup](./indexBackup.html)
