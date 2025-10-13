@@ -5,7 +5,7 @@ show_downloads: true
 google_analytics:
 # theme: jekyll-theme-minimal
 remote_theme: BDHU/minimalist
-color-scheme: dark
+color-scheme: auto
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
