@@ -25,7 +25,7 @@ PERSONAL STATEMENT PERSONAL STATEMENT PERSONAL STATEMENT PERSONAL STATEMENT
 
 ## CALENDAR
 
-{% include custom/calendar.html %}
+{% include calendar.html %}
 
 * * *
 
