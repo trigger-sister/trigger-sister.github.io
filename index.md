@@ -19,6 +19,7 @@ But the real target audience isn't just anyone. If you follow the advice that ev
 You are the one we wrote this blog for. We hope you will find our discussion on arts, culture, and gender not just interesting but personally fruitful and fulfilling. Maybe the events we list on the calendar will pique your interest and inspire a new journey. If you have a contribution of your own then please reach out - our DMs are always open for questions, comments, or potential submissions. And we want to hear from all the other queer Raleigh-ites who prowl after dark. Even if you choose not to participate in this blog-discussion I still have hope that someday soon under the dark Raleigh sky, maybe on a patio outside our favorite dive bar, by way of fate we will finally find each other.
 
 Regards, 
+
 trigger-sister
 
 
