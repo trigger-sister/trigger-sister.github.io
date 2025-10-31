@@ -13,9 +13,12 @@ plugins:
 
 # You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons
 sidebar:
+  - name: Home
+    icon: <i class="fa-solid fa-house"></i>
+    link: https://trigger-sister.github.io
   - name: About
     icon: <i class="fas fa-user-circle"></i>
-    link: https://trigger-sister.github.io/WIP.html
+    link: % post_url 2025-10-31-MANIFESTO %
   - name: Blog
     icon: <i class="fas fa-blog"></i>
     link: https://trigger-sister.github.io/WIP.html
