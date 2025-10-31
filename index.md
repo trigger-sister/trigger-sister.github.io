@@ -29,10 +29,8 @@ trigger-sister
 
 | Date         | Title                                        | Type  | Link  |
 |:-------------|:---------------------------------------------|:------|:------|
-| Oct 13, 2025 | Hello World!                            | Blog  | [Link]({% post_url 2025-10-13-HELLO-WORLD %}) |
-| Oct 12, 2025 | Announcement: Ren-Faire Life                 | Event | [Link](./WIP.html) |
-| Oct 11, 2025 | Self-Portrait                                | Art   | [Link](./WIP.html) |
-| Oct 10, 2025 | Recollections of Riders, Witches, and Ghosts | Blog  | [Link](./WIP.html) |
+| Oct 31, 2025 | Wicked Witch / Night Rider Remembrance Zine  | Art   | [Link](https://drive.google.com/file/d/1-EUGltMZ7bfyg2Wa-QDJ2FKlf3ub1V9u/view?usp=drive_link) |
+| Oct 31, 2025 | So, what are we doing here, anyways? | Blog  | [Link]({% post_url 2025-10-31-MANIFESTO %}) |
 
 * * *
 
