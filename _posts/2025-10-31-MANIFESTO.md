@@ -7,8 +7,6 @@ tags:
   - trigger-sister
 ---
 
-# So, what are we doing here, anyways?
-
 ![Branching](https://trigger-sister.github.io/assets/img/BLOGLogo.png)
 
 > The ‘'nothing’' is as this immediate, self-same, just as conversely ‘'the same’', which is ‘'being’'. The truth of both being and nothingness is therefore the “unity” of both; this unity is “becoming”.
