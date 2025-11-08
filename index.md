@@ -33,7 +33,7 @@ This blog is written by outcasts. Thrown out of our own heads and homes, we walk
 
 | Date         | Title                                        | Type  | Link  |
 |:-------------|:---------------------------------------------|:------|:------|
-| Nov 08, 2025 | Wicked Witch / Night Rider Remembrance Zine  | Art   | [Link]({% post_url 2025-11-08-WWNR-ZINE %}) |
+| Nov 08, 2025 | Wicked Witch / Night Rider Remembrance Zine  | Art   | [Link]({% post_url 2025-10-31-WWNR-ZINE %}) |
 | Oct 31, 2025 | So, what are we doing here, anyways? | Blog  | [Link]({% post_url 2025-10-31-MANIFESTO %}) |
 
 * * *
