@@ -13,7 +13,7 @@ layout: default
 
 It was an honor to edit this zine. The Wicked Witch and Night Rider were the perfect place to meet some unique folks. This page will be used to archive the different "editions" of the zine as well as host all the contributed content which could not make it into the zine itself. Any additional submitted content will be added here. Each Zine PDF is quite large at 203 MB so no preview is possible.
 
-## [ [READ MORE](% post_url 2025-10-31-WWNR-ZINE %) ]
+## [ [READ MORE]({% post_url 2025-10-31-WWNR-ZINE %}) ]
 
 ### So, what are we doing here, anyways?
 ##### by trigger-sister
@@ -22,7 +22,7 @@ You may be tempted to calculate the exact coordinates that lie between Art, Gend
 
 This blog is written by outcasts. Thrown out of our own heads and homes, we walk the Raleigh streets afterdark and mingle across a variety of dimensions. Some are artists of the spoken, written, painted, sketched, or musical varieties. Some are thinkers. Most are movers-and-shakers. Although most of us are queer, what we all actually have in common is that we don't fit in anywhere.
 
-## [ [READ MORE](% post_url 2025-10-31-MANIFESTO %) ]
+## [ [READ MORE]({% post_url 2025-10-31-MANIFESTO %}) ]
 
 
 * * *
