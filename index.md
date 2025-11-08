@@ -14,7 +14,7 @@ layout: default
 
 It was an honor to edit this zine. The Wicked Witch and Night Rider were the perfect place to meet some unique folks. This page will be used to archive the different "editions" of the zine as well as host all the contributed content which could not make it into the zine itself. Any additional submitted content will be added here. Each Zine PDF is quite large at 203 MB so no preview is possible.
 
-## [ [READ MORE]({% post_url 2025-10-31-WWNR-ZINE %}) ]
+## [ [READ MORE]({% post_url 2025-11-08-WWNR-ZINE %}) ]
 
 ### So, what are we doing here, anyways? 
 ##### Oct 31, 2025
@@ -33,7 +33,7 @@ This blog is written by outcasts. Thrown out of our own heads and homes, we walk
 
 | Date         | Title                                        | Type  | Link  |
 |:-------------|:---------------------------------------------|:------|:------|
-| Nov 08, 2025 | Wicked Witch / Night Rider Remembrance Zine  | Art   | [Link]({% post_url 2025-10-31-WWNR-ZINE %}) |
+| Nov 08, 2025 | Wicked Witch / Night Rider Remembrance Zine  | Art   | [Link]({% post_url 2025-11-08-WWNR-ZINE %}) |
 | Oct 31, 2025 | So, what are we doing here, anyways? | Blog  | [Link]({% post_url 2025-10-31-MANIFESTO %}) |
 
 * * *
