@@ -9,7 +9,7 @@ tags:
 
 > Nothing, if it be thus immediate and equal to itself, is also conversely the same as Being is. The truth of both being and nothingness is therefore the “unity” of both; this unity is “becoming”.
 
-You may be tempted to calculate the exact coordinates that lie between Art, Gender, and Raleigh Nightlife, in an attempt to understand who is writing this blog and for whom - and whether or not its for you or worth your time. Although I cannot reveal the idenities of our various contributors, I hope that I can paint a little picture for you to help you make up your mind.
+You may be tempted to calculate the exact coordinates that lie between Art, Gender, and Raleigh Nightlife, in an attempt to understand who is writing this blog and for whom - and whether or not its for you or worth your time. Although I cannot reveal the idenities of our various contributors, I hope that I can paint a little picture to help you make up your mind.
 
 This blog is written by outcasts. Thrown out of our homes and heads, we walk the Raleigh streets afterdark and mingle across a variety of dimensions. Some are artists of the spoken, written, painted, sketched, or musical varieties. Some are thinkers or movers-and-shakers. Although all of us are queer, what we all actually have in common is that we don't fit in anywhere.
 
