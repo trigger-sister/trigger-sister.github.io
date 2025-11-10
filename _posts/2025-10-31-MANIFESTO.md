@@ -7,7 +7,7 @@ tags:
   - trigger-sister
 ---
 
-> Nothing, if it be thus immediate and equal to itself, is also conversely the same as Being is. The truth of both being and nothingness is therefore the “unity” of both; this unity is “becoming”.
+> Nothing, if it be thus immediate and equal to itself, is also conversely the same as Being is. The truth of both Being and Bothingness is therefore the “unity” of both; this unity is “Becoming”.
 
 You may be tempted to calculate the exact coordinates that lie between Art, Gender, and Raleigh Nightlife, in an attempt to understand who is writing this blog and for whom - and whether or not its for you or worth your time. Although I cannot reveal the idenities of our various contributors, I hope that I can paint a little picture to help you make up your mind.
 
