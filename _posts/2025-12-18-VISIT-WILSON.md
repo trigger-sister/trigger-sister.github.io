@@ -15,7 +15,7 @@ We needed some tools, Lord help me that three grown trans women can't produce a 
 
 I never am quite sure how small town NC likes me. I can't say I've ever gotten many glances although that could be a lack of detection on my part if anything. Ruffled hair, leather pants, knee high solovairs, piercings, and developing breasts wrapped up in a rather queer energy - is that too out of place in a feed n seed store right in the middle of this rural locality? At least the clerk, a little old gray woman who honestly could have been a uhaul lesbian, didn't seem to think so.
 
-"Why hello, daaaaarling," I greeted her, "do you have any screwdrivers in this fine establishment?"
+"Why hello, _daaaaarling_," I greeted her, "do you have any screwdrivers in this fine establishment?"
 
 She didn't stare but she didn't quite look right through me either. I've noticed that being a bit flamboyant always gets some kind of reaction from cis people. Whether it's good or bad... Well I don't like to think of it in those terms. Rather, I like to think that it gives me some information about who they are. But not this short butch in front of me. She was a real stonewall!
 
@@ -31,7 +31,7 @@ My eye was caught by some homemade knives near the check out counter. Oh, and th
 
 The clerk rung me up and I paid. 
 
-"Thank you daaaaaaaarling" A lesbian I know taught me the trick here is to really draw out and accentuate the middle of "darling".
+"Thank you _daaaaaaaarling_" A lesbian I know taught me the trick here is to really draw out and accentuate the middle of "darling".
 
 "Have a great day! And happy holidays." I meant this genuinely.
 
