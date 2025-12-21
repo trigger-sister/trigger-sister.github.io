@@ -9,7 +9,7 @@ tags:
   - slice-of-life
 ---
 
-I was in Wilson recently helping a friend move out of that old high school on the corner of Moss and Kenan that got converted to apartments. By God did that bring back memories! Although I'm a Raleigh native, I've spent many summers on the family homestead in Rural NC.
+I was in Wilson recently helping a friend move out of that old high school on the corner of Moss and Kenan which got converted to apartments. By God did that bring back memories! Although I'm a Raleigh native, I've spent many summers on the family homestead in Rural NC. These apartments were reminders of childhood memories romping around in my father's old high school. He had shown me his middle school too and the "black" school from the time of segretation. Just like the building we were moving things out of, their history could be found in the pock marks in the concrete walls and those high ceiled windows they just don't seem to make anymore.
 
 We needed some tools, Lord help me that three grown trans women can't produce a screwdriver between us, so I took a walk down to that little feed and seed place on Barnes street. Wilson's downtown was like a walk through a dream, or maybe one of those AI concoctions where everything looks familiar and strange at the same time. Phil's and Morehead seafood were particularly enticing. But they could not distract me on my quest! Especially given that my shift started directly after moving, time was of the essence.
 
@@ -56,7 +56,3 @@ I found him quite appealing, handsome in a particular way, and briefly considere
 I'm not a kid anymore. I have responsibilities.
 
 "Oh. Thanks for letting me know. Have a blessed one." I meant that too. Genuinely.
-
-Regards, 
-
-trigger-sister
