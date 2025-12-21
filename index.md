@@ -8,6 +8,14 @@ layout: default
 
 ## Current Articles
 
+### A little encounter in Wilson 
+##### Dec 18, 2025
+###### by trigger-sister
+
+I was in Wilson recently helping a friend move out of that old high school on the corner of Moss and Kenan that got converted to apartments. By God did that bring back memories! Although I'm a Raleigh native, I've spent many summers on the family homestead in Rural NC.
+
+## [ [READ MORE]({% post_url 2025-12-18-VISIT-WILSON %}) ]
+
 ### Wicked Witch / Night Rider Remembrance Zine 
 ##### Nov 7, 2025
 ###### by trigger-sister
@@ -33,6 +41,7 @@ This blog is written by outcasts. Thrown out of our own heads and homes, we walk
 
 | Date         | Title                                        | Type  | Link  |
 |:-------------|:---------------------------------------------|:------|:------|
+| Dec 18, 2025 | A little encounter in Wilson                 | Blog  | [Link]({% post_url 2025-12-18-VISIT-WILSON %}) |
 | Nov 07, 2025 | Wicked Witch / Night Rider Remembrance Zine  | Art   | [Link]({% post_url 2025-11-07-WWNR-ZINE %}) |
 | Oct 31, 2025 | So, what are we doing here, anyways? | Blog  | [Link]({% post_url 2025-10-31-MANIFESTO %}) |
 
