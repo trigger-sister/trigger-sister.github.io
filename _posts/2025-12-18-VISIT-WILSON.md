@@ -27,23 +27,29 @@ She didn't stare but she didn't quite look right through me either. I've noticed
 
 My eye was caught by some homemade knives near the check out counter. Oh, and those fancy lighters... Wait a second, this is just the display case for lighters! Inside it there are random doo-dads and thing-a-muh-bobs.
 
-"Yep. This will be it"
+"Yep. This will be it."
 
-The clerk rung me up and I paid. 
+The clerk rung me up and I paid. It was about five bucks a screwdriver.
 
-"Thank you _daaaaaaaarling_" A lesbian I know taught me the trick here is to really draw out and accentuate the middle of "darling".
+"Thank you _daaaaaaaarling_!" A lesbian I met on a dive bar patio one night had taught me that the trick here is to really draw out and accentuate the middle of "darling".
 
 "Have a great day! And happy holidays." I meant this genuinely.
 
-I spun around to leave and made my way for the door. They're those heavy doors that no one seems to make anymore. How I adore them! What I don't adore is the loud clang noise that was produced by my clumsy boot making contact with one of the metal displays. More than 9 months on e and I'm still lumbering about. When does the grace and floating on clouds come?
+I spun around to leave and made my way for the door. They're those heavy dark wood doors that no one seems to make anymore. How I adore them! What I don't adore is the loud clang noise that was produced by my clumsy boot making contact with one of the metal displays. More than 9 months on e and I'm still lumbering about. When do I become womanly and graceful?
 
-Even worse than the self-doubt is the feeling of old lady lasers on my back. Better to get out quickly, I think to myself, and hurriedly through the door I go.
+Even worse than the self-doubt is the feeling of old lady lasers on my back. Maybe she was part-uhaul-lesbo and part-kryptonian? Better to get out quickly, I think to myself, and hurriedly through the door I go.
 
-What is life without a bit of adventure? I had parked my car right near Phil's. The music exchange called louder and louder as I drew closer and closer. Surely there would be no problem in stopping in for a quick look around their stock? I learned long ago that some of the best thrifts were found in rural localities. Up near Asheville I had found a delicious olive green skirt riddled with chains - and it fit perfectly! A rare thing for me.
+What is life without a bit of adventure? I had parked my car right near Phil's. The music exchange called louder and louder as I drew closer and closer. Surely there would be no problem in stopping in for a quick look around their stock? I learned long ago that some of the best thrifts were found in rural localities. Up near Asheville I had found a delicious olive green skirt riddled with chains - no doubt something from hot topic - and it fit perfectly! A rare thing for me.
 
-Near the Cherry Point MCAS I found an excellent nexus of second hand stores that gave me some absolutely cunty jewelry at marvelous prices. Down near Dunn I found an elderly woman doing one of those roadside garage sales. Got me an extra sewing machine out of that one! So why shouldn't I go and explore Phil's music exchange?
+Near the Cherry Point MCAS I found an excellent nexus of second hand stores that gave me some absolutely cunty jewelry at marvelous prices. Down near Dunn I found an elderly woman doing one of those roadside garage sales. Got me some great canvas shoes, an pillow embroidered with a rather handsome feline, AND an extra (albeit "portable-sized") sewing machine out of that one! So why shouldn't I go and explore Phil's music exchange?
 
-Looking through the storefront window I can see a clerk fiddling with something behind the register. Near him but closer to the door is a piece of art; a windmill made out of what looks to be scrap metal. Perfect! That's a sure sign that this place has some artistic merit to it. Combined with the almost 70's facade of the building, I found myself back in Asheville remembering long gone punk shows and venues that no longer exist. I pulled on the door handle. *Ka-chunk*. It didn't open.
+Looking through the storefront window I can see a clerk fiddling with something behind the register counter. Near him but closer to the door is a piece of art; a windmill made out of what looks to be scrap metal. Perfect! That's a sure sign that this place has some artistic merit to it. Combined with the almost 70's facade of the building, I found myself back in Asheville reliving long gone punk shows and venues that no longer exist. 
+
+I pulled on the door handle. 
+
+*Ka-chunk*. 
+
+It didn't open.
 
 Well, that's just my luck, I thought to myself and turned to walk away. A few steps in, the door swung open behind me. I turned around and found the clerk staring in my face. And he was staring.
 
@@ -55,4 +61,6 @@ I found him quite appealing, handsome in a particular way, and briefly considere
 
 I'm not a kid anymore. I have responsibilities.
 
-"Oh. Thanks for letting me know. Have a blessed one." I meant that too. Genuinely.
+"Oh. Thanks for letting me know. Have a blessed one." I meant that too. Genuinely. 
+
+And then I got on my way.
