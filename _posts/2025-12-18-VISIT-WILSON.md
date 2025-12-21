@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A little encounte in Wilson"
+title: "A little encounter in Wilson"
 author: trigger-sister
 date: 2025-12-18 16:50:00 -0400
 tags:
